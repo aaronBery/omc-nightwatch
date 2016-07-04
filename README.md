@@ -1,5 +1,9 @@
 This project enables a user to run browser automated tests using the selenium
-standalone server with the tests written in nightwatch js
+standalone server which can be downloaded here
+http://www.seleniumhq.org/download/
+and the jar file placed in the root of the project
+
+The tests are written in nightwatch js
 http://nightwatchjs.org/
 
 To run this you will need to have Java installed on your machine.
